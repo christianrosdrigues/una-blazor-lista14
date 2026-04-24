@@ -60,7 +60,7 @@ https://localhost:5001
 
 ## Screenshot da Aplicação
 
-![Screenshot](./img/screenshot.png)
+![Screenshot](./img/screenshot.jpeg)
 
 
 ## Heurística - Ajuda e Documentação
