@@ -34,7 +34,7 @@ O projeto foi personalizado para melhorar a experiência do usuário, com foco e
 
 2. Acesse a pasta do projeto
 
-cd una-blazor-lista14
+cd documents
 
 3. Entre na pasta da aplicação:
 
