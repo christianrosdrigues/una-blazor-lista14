@@ -60,7 +60,7 @@ https://localhost:5001
 
 ## Screenshot da Aplicação
 
-![Screenshot](./img/screenshot.jpeg)
+![Screenshot](./WhatsAppImage2026-04-23at21.20.49.jpeg)
 
 
 ## Heurística - Ajuda e Documentação
