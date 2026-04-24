@@ -30,15 +30,13 @@ O projeto foi personalizado para melhorar a experiência do usuário, com foco e
 
 ### Como executar
 
-1. Clone o repositório:
+1. Entre no terminal
 
-git clone https://github.com/christianrosdrigues/una-blazor-lista14.git
+2. Acesse a pasta do projeto
 
-2. Acesse a pasta do projeto:
-3. 
 cd una-blazor-lista14
 
-4. Entre na pasta da aplicação:
+3. Entre na pasta da aplicação:
 
 cd MeuCurriculo
 
